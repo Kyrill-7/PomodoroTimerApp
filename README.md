@@ -1,9 +1,7 @@
 
-# Content of the beautified README
-content = """# ⏳ Pomodoro Timer iOS App
+Pomodoro Timer iOS App
 
-A **beautifully designed Pomodoro Timer** built with **SwiftUI** to help you stay productive. Switch between focus and break sessions, customize durations, enjoy gradient themes, and get sound alerts when your time is up. 🎶
-
+A beautifully designed Pomodoro Timer built with SwiftUI to help you stay productive. Switch between focus and break sessions, customize durations, enjoy gradient themes, and get sound alerts when your time is up. 🎶
 ---
 
 ## 📸 Screenshots
