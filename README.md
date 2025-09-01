@@ -1,4 +1,3 @@
-⏳ import shutil
 
 # Path to save the beautified README.md
 readme_path = "/mnt/data/README.md"
@@ -50,6 +49,6 @@ A **beautifully designed Pomodoro Timer** built with **SwiftUI** to help you sta
 ### Installation
 
 ```bash
-git clone https://github.com/Kyril-07/pomodoro-timer-ios.git
+git clone https://github.com/Kyril-7/pomodoro-timer-ios.git
 cd pomodoro-timer-ios
 open PomodoroTimer.xcodeproj
