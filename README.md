@@ -1,5 +1,3 @@
-# Path to save the beautified README.md
-readme_path = "/mnt/data/README.md"
 
 # Content of the beautified README
 content = """# ⏳ Pomodoro Timer iOS App
@@ -48,6 +46,6 @@ A **beautifully designed Pomodoro Timer** built with **SwiftUI** to help you sta
 ### Installation
 
 ```bash
-git clone https://github.com/Kyril-07/pomodoro-timer-ios.git
-cd pomodoro-timer-ios
+git clone https://github.com/Kyrill-7/PomodoroTimerApp.git
+cd PomodorTimerAPP
 open PomodoroTimer.xcodeproj
